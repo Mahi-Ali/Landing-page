@@ -1,0 +1,107 @@
+
+body{
+    background-image:url() ;
+    background-repeat: no-repeat;
+    background-position: ;
+    background-size: 3000px ;
+    width: 100%;
+    height: 150%;
+}
+
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+}
+li{
+    padding-right: 30px;
+}
+ul{
+    list-style-type:none;
+    color: rgb(84, 30, 210)0, 210;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    padding-top: 2%;
+    background-color:#211c6A;
+}
+li:hover{
+    background-color: white;
+    padding: 1%;
+    border-radius: 15%;
+    color:black;
+    transition: all 0.25s ease;
+}
+button{
+    
+    font-size: 20px;
+    background-color: wheat;
+}
+.Company{
+        color:black;
+}
+.name{
+    color: black;
+}
+h1{
+    text-decoration:underline;
+}
+p{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif ;
+    line-height:1.6 ;
+} */
+body{
+    background-image:url(./assets/images\ \(1\).jpeg) ;
+    background-repeat: no-repeat;
+    background-position:;
+    background-size: 2000px ;
+    width: 100%;
+    height: 100%;
+}
+header {
+    
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+section {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border: 0;
+color:  black;
+    
+}
+footer {
+    
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 30px;
+}
